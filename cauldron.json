@@ -13,12 +13,20 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "https://github.com/victorwang2000/MyFirstMiniApp.git#a277b49"
+                ],
+                "nativeDeps": [
+                  "react-native@0.59.8"
+                ],
+                "ernVersion": "0.35.0"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "fdb1e94d-6e3b-4f25-b185-c1e33959d7dc"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
